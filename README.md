@@ -12,7 +12,7 @@ On instructions, replace it in your EFI, replace it somewhere in /System or /Lib
 Why would you want to do this? Personally audio levels get buggy for me when switching from headphones to speakers and vice versa, and these ones are more stable.
 
 ## My hardware
-* i5-2520M
+* Intel® Core™ i5-2520M Processor
 * DW1510 for Wi-Fi
 * No webcam
 * A standard 1366x768 panel
