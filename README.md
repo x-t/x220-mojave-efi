@@ -1,6 +1,8 @@
 # x220-mojave-efi
 EFI configuration that successfully boots Mojave 10.14.6 on the X220!
 
+If you're interested in this, you may be interested in [Catalina on the X220!](https://github.com/x-t/x220-catalina-efi) 
+
 ## A note on upgrading 10.14.5->10.14.6 via System Preferences
 After upgrade, it might not boot, this isn't a Clover issue, it's rather a patch issue.  
 Re-run dosdude1's patches from a 10.14.6 installer.
@@ -17,4 +19,4 @@ Why would you want to do this? Personally audio levels get buggy for me when swi
 * No webcam
 * A standard 1366x768 panel
 
-### For a more in-depth tutorial, see [b-ggs/x220-hackintosh](https://github.com/b-ggs/x220-hackintosh)
+### This isn't a tutorial, if you need one, see [b-ggs/x220-hackintosh](https://github.com/b-ggs/x220-hackintosh)
